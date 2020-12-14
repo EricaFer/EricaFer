@@ -1,5 +1,3 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EricaFer&theme=radicalk&show_icons=true)
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
   Olá, sou a Erica e estudo <strong>Engenharia de Controle e Automação </strong> com duplo diploma em <strong>Matemática</strong> pela <strong> UFRJ</strong>.
@@ -17,7 +15,7 @@
  🚀 Ferramentas: <strong>Jupyter Notebook, Matlab, Simulink, Numpy, Pandas e Scikit-learn.</strong>
 </p>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=EricaFer&show_icons=true&title_color=db2398&text_color=232323&icon_color=6a0078&bg_color=f8efd4&cache_seconds=2300">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=EricaFer&theme=radical&cache_seconds=2300">
 
 <p align="left">
  💌 Se quiser me convidar para um projeto ( ou mesmo conversar), não hesite em me mandar uma mensagem: 
