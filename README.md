@@ -14,9 +14,10 @@
 <p align="left">
  🚀 Ferramentas: <strong>Jupyter Notebook, Matlab, Simulink, Numpy, Pandas e Scikit-learn.</strong>
 </p>
-
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=EricaFer&theme=radical&cache_seconds=2300&hide_border=True"  min-width="380px" max-width="440px" width="400px">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaFer&theme=radical&cache_seconds=2300&hide_border=True&layout=compact" min-width="380px" max-width="440px" width="400px">
+<br>
+<br>
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=EricaFer&theme=radical&cache_seconds=2300&hide_border=True"  min-width="380px" max-width="440px" width="410px">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaFer&theme=radical&cache_seconds=2300&hide_border=True&layout=compact" min-width="380px" max-width="440px" width="410px">
 <br>
 <br>
 <br>
