@@ -25,10 +25,6 @@
 </table>
 </center>
 <br>
-<br>
-<br>
-<br>
-
 <p align="left">
  💌 Se quiser me convidar para um projeto ( ou mesmo conversar), não hesite em me mandar uma mensagem: 
 </p>
