@@ -1,3 +1,5 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EricaFer&theme=radicalk&show_icons=true)
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
   Olá, sou a Erica e estudo <strong>Engenharia de Controle e Automação </strong> com duplo diploma em <strong>Matemática</strong> pela <strong> UFRJ</strong>.
