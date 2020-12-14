@@ -16,7 +16,7 @@
 </p>
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=EricaFer&theme=radical&cache_seconds=2300&hide_border=True">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaFer&theme=radical&cache_seconds=2300&hide_border=True&layout=compact">
 
 <p align="left">
  💌 Se quiser me convidar para um projeto ( ou mesmo conversar), não hesite em me mandar uma mensagem: 
