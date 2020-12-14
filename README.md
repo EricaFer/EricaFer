@@ -19,6 +19,14 @@
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaFer&theme=radical&cache_seconds=2300&hide_border=True&layout=compact">
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="left">
  💌 Se quiser me convidar para um projeto ( ou mesmo conversar), não hesite em me mandar uma mensagem: 
