@@ -16,8 +16,14 @@
 
 <br>
 <br>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=EricaFer&theme=radical&cache_seconds=2300&hide_border=True"  min-width="380px" max-width="440px" width="400px">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaFer&theme=radical&cache_seconds=2300&hide_border=True&layout=compact" min-width="380px" max-width="440px" width="400px">
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=EricaFer&theme=tokyonight&show_icons=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaFer&layout=compact&theme=radical&hide=html" /></td>
+  </tr>  
+</table>
+</center>
 <br>
 <br>
 <br>
