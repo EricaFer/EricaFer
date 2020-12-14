@@ -15,6 +15,8 @@
  🚀 Ferramentas: <strong>Jupyter Notebook, Matlab, Simulink, Numpy, Pandas e Scikit-learn.</strong>
 </p>
 
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=EricaFer&show_icons=true&title_color=db2398&text_color=232323&icon_color=6a0078&bg_color=f8efd4&cache_seconds=2300">
+
 <p align="left">
  💌 Se quiser me convidar para um projeto ( ou mesmo conversar), não hesite em me mandar uma mensagem: 
 </p>
@@ -27,4 +29,3 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericacferreira/" /></a>
 
 </p>  
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=EricaFer&show_icons=true&title_color=db2398&text_color=232323&icon_color=6a0078&bg_color=f8efd4&cache_seconds=2300">
