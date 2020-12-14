@@ -15,7 +15,7 @@
  🚀 Ferramentas: <strong>Jupyter Notebook, Matlab, Simulink, Numpy, Pandas e Scikit-learn.</strong>
 </p>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=EricaFer&theme=radical&cache_seconds=2300">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=EricaFer&theme=radical&cache_seconds=2300&hide_border=True">
 
 <p align="left">
  💌 Se quiser me convidar para um projeto ( ou mesmo conversar), não hesite em me mandar uma mensagem: 
