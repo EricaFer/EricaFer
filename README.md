@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
- 👾 Linguagens: <strong> Python, LaTeX, C.</strong>
+ 👾 Linguagens: <strong> Python, LaTeX, C, Matlab.</strong>
 </p>
 
 <p align="left">
- 🚀 Ferramentas: <strong>Jupyter Notebook, Matlab, Simulink, Numpy, Pandas e Scikit-learn.</strong>
+ 🚀 Ferramentas: <strong>Jupyter Notebook, Simulink, Numpy, Pandas e Scikit-learn.</strong>
 
 <br>
 <br>
