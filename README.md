@@ -1,3 +1,4 @@
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="500px" width="450px" top= "0 px" align="right">
 
 
 <p align="left"> 
@@ -15,7 +16,6 @@
 <p align="left">
  🚀 Ferramentas: <strong>Jupyter Notebook, Simulink, Numpy, Pandas e Scikit-learn.</strong>
   
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="500px" width="450px" top= "0 px" align="right">
 
 
 <br>
