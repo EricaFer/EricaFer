@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+
 <p align="left"> 
   Olá, sou a Erica e estudo <strong>Engenharia de Controle e Automação </strong> com duplo diploma em <strong>Matemática</strong> pela <strong> UFRJ</strong>.
 </p>
@@ -13,13 +14,17 @@
 
 <p align="left">
  🚀 Ferramentas: <strong>Jupyter Notebook, Simulink, Numpy, Pandas e Scikit-learn.</strong>
+  
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="500px" width="450px" top= "0 px" align="right">
+
 
 <br>
-<br>
+<br><br><br>
+
 <center>
 
   <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=EricaFer&theme=tokyonight&show_icons=true&cache_seconds=1800" /></td>
+      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=EricaFer&theme=tokyonight&show_icons=true&cache_seconds=1800" /></td>
      </td>
   </tr>  
 
