@@ -19,20 +19,8 @@
  
 <p align="left">
  🎯 Skills: <strong>Data Science, Machine Learning e Natural Language Processing (NLP).</strong>
-  
+ 
 
-
-<br>
-<br><br><br>
-
-<center>
-
-  <tr>
-      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=EricaFer&theme=tokyonight&show_icons=true&cache_seconds=1800" /></td>
-     </td>
-  </tr>  
-
-</center>
 <br>
 <p align="left">
  💌 Se quiser me convidar para um projeto ( ou mesmo conversar), não hesite em me mandar uma mensagem: 
@@ -45,4 +33,13 @@
   <a href="https://www.linkedin.com/in/ericacferreira/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericacferreira/" /></a>
 
-</p>  
+</p>
+<br><br>
+<center>
+
+  <tr>
+      <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=EricaFer&theme=tokyonight&show_icons=true&cache_seconds=1800" /></td>
+     </td>
+  </tr>  
+
+</center>
