@@ -14,7 +14,11 @@
 </p>
 
 <p align="left">
- 🚀 Ferramentas: <strong>Jupyter Notebook, Simulink, Numpy, Pandas e Scikit-learn.</strong>
+ 🚀 Ferramentas: <strong>Jupyter Notebook, Simulink, Numpy, Pandas, Spacy, NLKT e Scikit-learn.</strong>
+ 
+ 
+<p align="left">
+ 🎯 Skills: <strong>Data Science, Machine Learning e Natural Language Processing (NLP).</strong>
   
 
 
