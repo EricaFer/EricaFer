@@ -6,7 +6,8 @@
 </p>
 
 <p align="left"> 
-  Também participo da Atividade de Extensão <strong> Ciência de Dados para Cidades Inteligentes</strong> que é uma parceria entre o Instituto de Matemática da UFRJ- <strong>IM</strong> e o Centro de Operações do Rio de Janeiro-<strong>COR</strong>, onde desenvolvemos soluções para melhorar a cidade do Rio de Janeiro utilizando Ciência de Dados e Machine Learning. 
+  Sou Bolsista de Iniciação Tecnológica na <strong> Comissão de Valores Mobiliários - CVM </strong>, trabalhando em projetos de Data Science e Natural Language Processing. 
+  Também participo da Atividade de Extensão <strong> Ciência de Dados para Cidades Inteligentes</strong> que é um projeto de extensão do Instituto de Matemática da UFRJ (IM-UFRJ) com o intuito de guiar graduandos no aprendizado de Data Science e Machine Learning e aproximá-los de empresas que precisem de soluções nessa área.
 </p>
 
 <p align="left">
