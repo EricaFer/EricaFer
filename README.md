@@ -38,3 +38,5 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericacferreira/" /></a>
 
 </p>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet)
