@@ -1,4 +1,9 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="500px" width="350px" top= "0 px" align="right">
+ 
+ 
+<br>
+
+![](https://komarev.com/ghpvc/?username=EricaFer&style=flat-square&color=blueviolet)
 
 
 <p align="left"> 
@@ -39,6 +44,3 @@
 
 </p>
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=EricaFer&style=flat-square&color=blueviolet)
