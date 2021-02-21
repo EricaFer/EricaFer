@@ -18,6 +18,8 @@
  Também participo da Atividade de Extensão <strong> Ciência de Dados para Cidades Inteligentes</strong> que é um projeto de extensão do Instituto de Matemática da UFRJ (IM-UFRJ) com o intuito de guiar graduandos no aprendizado de Data Science e Machine Learning e aproximá-los de empresas que precisem de soluções nessa área.
 </p>
 
+<br>
+
 <p align="left">
  👾 Linguagens: <strong> Python, LaTeX, C, Matlab.</strong>
 </p>
