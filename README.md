@@ -39,4 +39,6 @@
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet)
+<br>
+
+![](https://komarev.com/ghpvc/?username=EricaFer&style=flat-square&color=blueviolet)
