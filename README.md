@@ -11,16 +11,16 @@
 </p>
 
 <p align="left"> 
- *  Sou Bolsista de Iniciação Tecnológica na <strong> Comissão de Valores Mobiliários - CVM</strong>, trabalhando em projetos de Data Science e Natural Language Processing. 
+ >  Sou Bolsista de Iniciação Tecnológica na <strong> Comissão de Valores Mobiliários - CVM</strong>, trabalhando em projetos de Data Science e Natural Language Processing. 
 </p>
 
 <p align="left"> 
- *  Faço parte da <strong>UFRJ Analytica</strong>, equipe de Ciência de Dados da UFRJ.
+ >  Faço parte da <strong>UFRJ Analytica</strong>, equipe de Ciência de Dados da UFRJ.
 </p>
 
 
 <p>
-* Participo da Atividade de Extensão <strong> Ciência de Dados para Cidades Inteligentes</strong> que é um projeto de extensão do Instituto de Matemática da UFRJ (IM-UFRJ) com o intuito de guiar graduandos no aprendizado de Data Science e Machine Learning e aproximá-los de empresas que precisem de soluções nessa área.
+> Participo da Atividade de Extensão <strong> Ciência de Dados para Cidades Inteligentes</strong> que é um projeto de extensão do Instituto de Matemática da UFRJ (IM-UFRJ) com o intuito de guiar graduandos no aprendizado de Data Science e Machine Learning e aproximá-los de empresas que precisem de soluções nessa área.
 </p>
 
 <br>
