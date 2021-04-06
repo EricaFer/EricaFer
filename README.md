@@ -7,7 +7,7 @@
 
 
 <p align="left"> 
-  Olá, sou a Erica e estudo <strong>Engenharia de Controle e Automação </strong> com duplo diploma em <strong>Matemática</strong> pela <strong> UFRJ</strong>.
+  Olá, sou a Erica e estudo <strong>Engenharia de Controle e Automação pela <strong> UFRJ</strong>.
 </p>
 
 <p align="left"> 
