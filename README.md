@@ -39,7 +39,7 @@
 
 <br><br>
 <p align="left">
- 💌 Se quiser me convidar para um projeto ( ou mesmo conversar), não hesite em me mandar uma mensagem: 
+ 💌 Se quiser me convidar para um projeto (ou mesmo conversar), não hesite em me mandar uma mensagem: 
 </p>
 
 <p align="left">
