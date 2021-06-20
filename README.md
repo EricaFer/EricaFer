@@ -5,13 +5,19 @@
 
 ![](https://komarev.com/ghpvc/?username=EricaFer&style=flat-square&color=blueviolet)
 
-
 <p align="left"> 
-  Olá, sou a Erica e estudo <strong>Engenharia de Controle e Automação pela <strong> UFRJ</strong>.
+<h2> 
+  Olá 🤓
+ <br>
+</h2>
+<p align="left"> 
+ 
+ 
+  Sou a Erica e estudo <strong>Engenharia de Controle e Automação pela <strong> UFRJ</strong>.
 </p>
 
 <p align="left"> 
- ◻  Sou Bolsista de Iniciação Tecnológica na <strong> Comissão de Valores Mobiliários - CVM</strong>, trabalhando em projetos de Data Science e Natural Language Processing. 
+ ◻  Faço Iniciação Tecnológica na <strong> Comissão de Valores Mobiliários - CVM</strong>, trabalhando em projetos de Data Science e Natural Language Processing. 
 </p>
 
 <p align="left"> 
@@ -20,17 +26,27 @@
 
 
 <p>
-◻ Participo da Atividade de Extensão <strong> Ciência de Dados para Cidades Inteligentes</strong> que é um projeto de extensão do Instituto de Matemática da UFRJ (IM-UFRJ) com o intuito de guiar graduandos no aprendizado de Data Science e Machine Learning e aproximá-los de empresas que precisem de soluções nessa área.
+◻ Participo da Atividade de Extensão <strong> Ciência de Dados para Cidades Inteligentes</strong>, projeto de extensão do Instituto de Matemática da UFRJ (IM-UFRJ) com o intuito de guiar graduandos no aprendizado de Data Science e Machine Learning e aproximá-los de empresas que precisem de soluções nessa área.
 </p>
 
 <br>
 
-<p align="left">
- 👾 Linguagens: <strong> Python, LaTeX, C, Matlab.</strong>
-</p>
+<p align="right"> 
+<h2> 
+  Hello 🤓
+ <br>
+</h2>
+<p align="right"> 
 
 <p align="left">
- 🚀 Ferramentas: <strong>Jupyter Notebook, Simulink, Numpy, Pandas, Spacy, NLKT e Scikit-learn.</strong>
+ 👾 Languages:  
+ <a href="https://www.python.org/"><img alt="Python" src="https://user-images.githubusercontent.com/53838883/122689618-6a470300-d1fa-11eb-98c6-737d7fcabca1.png" height="40"/></a>
+ <a href="https://julialang.org/"><img alt="Julia" src="https://user-images.githubusercontent.com/53838883/122689729-41733d80-d1fb-11eb-9081-32c50c5ba93b.png" height="40"/></a>
+ 
+ 
+
+<p align="left">
+ 🚀 Tools: <strong>Jupyter Notebook, Simulink, Numpy, Pandas, Spacy, NLKT e Scikit-learn.</strong>
  
  
 <p align="left">
