@@ -48,7 +48,7 @@ Illustration by <a href="https://icons8.com/illustrations/author/5dd5075701d0360
 
  ◻  Competition Team member at <strong>[UFRJ Analytica](https://ufrjanalytica.ml/)</strong> , UFRJ's Data Science team.
 
- ◻ Volunteer on the University Extension Project <strong>Data Science for Smart Cities</strong>, a project of UFRJ's Mathematics Institute, that has the goal of guiding undergrad students through the learning journey of Data Science and Machine Learning and bring them closer to Governments Institutions that need solutions in the same area.
+ ◻ Volunteer on the University Extension Project <strong>Data Science for Smart Cities</strong>, a project of UFRJ's Mathematics Institute, that has the goal of guiding undergrad students through the learning journey of Data Science and Machine Learning and bring them closer to Government Institutions that need solutions in the field.
  
  Illustration by [Bogdan Magenta](https://icons8.com/illustrations/author/5dd5075701d03600114d621f) from [Ouch!](https://icons8.com/illustrations)
  
