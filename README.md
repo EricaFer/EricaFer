@@ -41,7 +41,7 @@ Illustration by <a href="https://icons8.com/illustrations/author/5dd5075701d0360
  <br>
 </h2> 
  
-  I'm Erica and I study <strong>Control and Automation Engineering</strong> at <strong>[Federal University of Rio de Janeiro](https://ufrj.br/en/)</strong>.
+  I'm Erica and I study <strong>Control and Automation Engineering</strong> at the <strong>[Federal University of Rio de Janeiro](https://ufrj.br/en/)</strong>.
 
 
  ◻  Technological Initiation Fellow at <strong> [Securities and Exchange Commision of Brazil](https://www.gov.br/cvm/pt-br)</strong>, working in projects using Data Science, Machine Learning and Natural Language Processing (NLP). 
