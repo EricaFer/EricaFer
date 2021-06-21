@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/53838883/122692674-e0ecfc00-d20c-11eb-971c-0c5ae814805f.png" width="350px" align="right">
+<img src="https://user-images.githubusercontent.com/53838883/122692674-e0ecfc00-d20c-11eb-971c-0c5ae814805f.png" width="380px" align="right">
 
 
 <div alignn="left"> 
@@ -32,7 +32,7 @@ Illustration by <a href="https://icons8.com/illustrations/author/5dd5075701d0360
  
  <br>
  
- <img src="https://user-images.githubusercontent.com/53838883/122692758-32958680-d20d-11eb-8ff0-25af51a1dace.png" width="280px" align="left">
+ <img src="https://user-images.githubusercontent.com/53838883/122692758-32958680-d20d-11eb-8ff0-25af51a1dace.png" width="300px" align="left">
 
  
  <div style="text-align: right"> 
