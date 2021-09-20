@@ -16,7 +16,7 @@
  
   Sou a Erica e estudo <strong>Engenharia de Controle e Automação</strong> pela <strong>[UFRJ](https://ufrj.br/)</strong>.
 
- ◻  Faço Iniciação Científica na <strong> COPPETEC </strong> em parceria com a Siemens, atuando com dados de Info Segurança de IIoT ((Industrial Internet of Things)) utilizando Ciência de Dados.
+ ◻  Faço Iniciação Científica na <strong> COPPETEC </strong> em parceria com a Siemens, atuando com dados de Info Segurança de IIoT (Industrial Internet of Things) utilizando Ciência de Dados.
 
 
  ◻  Faço parte da <strong>[UFRJ Analytica](https://ufrjanalytica.ml/)</strong>, equipe de Ciência de Dados da UFRJ.
