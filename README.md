@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-Gmail-ED401B?style=flat-square&labelColor=ED401B&logo=gmail&logoColor=white&link=mailto:erica.ferreira@poli.ufrj.br" /></a>
 
  
-  Sou a Erica e estudo <strong>Engenharia de Controle e Automação</strong> pela <strong>[UFRJ](https://ufrj.br/)</strong>.
+  Sou a Erica e estudo <strong>Engenharia Mecatrônica</strong> pela <strong>[UnB](https://unb.br/)</strong>.
 
  ◻  Faço Iniciação Científica na <strong> COPPETEC </strong> em parceria com a Siemens, atuando com dados de Info Segurança de IIoT (Industrial Internet of Things) utilizando Ciência de Dados.
 
@@ -40,7 +40,7 @@ Illustration by <a href="https://icons8.com/illustrations/author/5dd5075701d0360
  <br>
 </h2> 
  
-  I'm Erica and I study <strong>Control and Automation Engineering</strong> at the <strong>[Federal University of Rio de Janeiro](https://ufrj.br/en/)</strong>.
+  I'm Erica and I study <strong>Mechatronics Engineering</strong> at the <strong>[University of Brasília](https://international.unb.br/)</strong>.
 
 
  ◻  Scientific Initiation Fellow at <strong> COPPETEC </strong> in a partnership with Siemens, working with IIoT (Industrial Internet of Things) Info Security data using Data Science.
