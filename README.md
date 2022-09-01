@@ -18,7 +18,7 @@
 
  ◻  Scientific Initiation Fellow at <strong> COPPETEC </strong> in a partnership with Siemens, working with IIoT (Industrial Internet of Things) Info Security data using Data Science.
 
- ◻  Vice-coordinator of the Development Team at <strong>[UFRJ Analytica](https://ufrjanalytica.ml/)</strong> , UFRJ's Data Science team.
+ ◻  Coordinator of the Development Team at <strong>[UFRJ Analytica](https://ufrjanalytica.ml/)</strong> , UFRJ's Data Science team.
 
  ◻ Volunteer at the University Extension Project <strong>Data Science for Smart Cities</strong>, a project of UFRJ's Mathematics Institute, that has the goal of guiding undergrad students through the learning journey of Data Science and Machine Learning and bring them closer to Government Institutions that need solutions in the field, where I work directly with <strong> [Securities and Exchange Commision of Brazil](https://www.gov.br/cvm/en)</strong>, working in projects using Data Science, Machine Learning and Natural Language Processing (NLP).
  
@@ -43,7 +43,7 @@ Illustration by <a href="https://icons8.com/illustrations/author/5dd5075701d0360
  ◻  Faço Iniciação Científica na <strong> COPPETEC </strong> em parceria com a Siemens, atuando com dados de Info Segurança de IIoT (Industrial Internet of Things) utilizando Ciência de Dados.
 
 
- ◻  Vice-coordenadora do time de Desenvolvimento da <strong>[UFRJ Analytica](https://ufrjanalytica.ml/)</strong>, equipe de Ciência de Dados da UFRJ.
+ ◻  Coordenadora do time de Desenvolvimento da <strong>[UFRJ Analytica](https://ufrjanalytica.ml/)</strong>, equipe de Ciência de Dados da UFRJ.
 
  
  ◻ Participo do Projeto de Extensão <strong>Ciência de Dados para Cidades Inteligentes</strong> do Instituto de Matemática que tem o objetivo de guiar graduandos no aprendizado de Data Science e Machine Learning e aproximá-los de empresas que precisem de soluções na área, onde atuo diretamente na <strong> [Comissão de Valores Mobiliários - CVM](https://www.gov.br/cvm/pt-br)</strong>, trabalhando em projetos de Data Science e Processamento de Linguagem Natural (NLP).
