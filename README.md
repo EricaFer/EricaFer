@@ -38,7 +38,9 @@ Illustration by <a href="https://icons8.com/illustrations/author/5dd5075701d0360
   Olá 🤓
  <br>
 </h2> 
- Sou a Erica e estudo <strong>Engenharia Mecatrônica</strong> pela <strong>[UnB](https://unb.br/)</strong>.
+
+
+ Sou a Erica e estudo <strong>Engenharia Mecatrônica</strong> pela <strong>[Universidade de Brasília](https://unb.br/)</strong>.
 
  ◻  Faço Iniciação Científica na <strong> COPPETEC </strong> em parceria com a Siemens, atuando com dados de Info Segurança de IIoT (Industrial Internet of Things) utilizando Ciência de Dados.
 
