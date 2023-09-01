@@ -40,7 +40,7 @@ Illustration by <a href="https://icons8.com/illustrations/author/5dd5075701d0360
 </h2> 
 
 
- Sou a Erica e estudo <strong<strong>Computer Science</strong> at the <strong>[George Mason University]([https://www.gmu.edu/admissions-aid])</strong>.
+ Sou a Erica e estudo <strong> Computer Science</strong> at the <strong>[George Mason University]([https://www.gmu.edu/admissions-aid])</strong>.
 
  ◻  Faço Iniciação Científica na <strong> COPPETEC </strong> em parceria com a Siemens, atuando com dados de Info Segurança de IIoT (Industrial Internet of Things) utilizando Ciência de Dados.
 
