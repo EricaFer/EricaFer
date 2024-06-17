@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/ericacferreira/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericacferreira/" /></a>
   <a href="mailto:erica.ferreira.dev@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-ED401B?style=flat-square&labelColor=ED401B&logo=gmail&logoColor=white&link=mailto:erica.ferreira@poli.ufrj.br" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-ED401B?style=flat-square&labelColor=ED401B&logo=gmail&logoColor=white&link=mailto:erica.ferreira.dev@gmail.com" /></a>
 
  I'm Erica and I study <strong>Computer Science</strong> at the <strong>[George Mason University]([https://www.gmu.edu/admissions-aid])</strong>.
 
