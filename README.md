@@ -16,7 +16,7 @@
  I'm Erica and I study <strong>Computer Science</strong> at the <strong>[George Mason University]([https://www.gmu.edu/admissions-aid])</strong>.
 
 
- ◻  Scientific Initiation Fellow at <strong> COPPETEC </strong> in a partnership with Siemens, working with IIoT (Industrial Internet of Things) Info Security data using Data Science.
+ ◻  Scientific Initiation Fellow at <strong> COPPETEC </strong> in a partnership with Siemens, analyzing IIoT (Industrial Internet of Things) Info Security data using Data Science.
 
  ◻  Former Coordinator of the Development Team at <strong>[UFRJ Analytica](https://ufrjanalytica.ml/)</strong> , UFRJ's Data Science team.
 
