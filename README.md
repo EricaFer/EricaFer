@@ -15,7 +15,7 @@
 
  I'm Erica and I study <strong>Computer Science</strong> at the <strong>[George Mason University]([https://www.gmu.edu/admissions-aid])</strong>.
 
- ◻  Former Machine Learning Researcher Intern at Siemens developing Machine Learning models to detect anomalies in industrial device logs.
+ ◻  Former Data Scientist Intern at Siemens developing Machine Learning models to detect anomalies in industrial device logs.
 
  ◻  Former Undergraduate Research Fellow at Siemens, analyzing IIoT (Industrial Internet of Things) Info Security data using Data Science.
 
