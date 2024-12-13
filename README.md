@@ -21,7 +21,7 @@
 
  ◻  Former Coordinator of the Development Team at <strong>[UFRJ Analytica](https://ufrjanalytica.ml/)</strong> , UFRJ's Data Science team.
 
- ◻ Former Volunteer at the University Extension Project <strong>Data Science for Smart Cities</strong>, a project of UFRJ's Mathematics Institute, that has the goal of guiding undergrad students through the learning journey of Data Science and Machine Learning and bringing them closer to Government Institutions that need solutions in the field, where I work directly with <strong> [Securities and Exchange Commission of Brazil](https://www.gov.br/cvm/en)</strong>, working in projects using Data Science, Machine Learning and Natural Language Processing (NLP).
+ ◻ Former Volunteer at the University Extension Project <strong>Data Science for Smart Cities</strong>, a project of UFRJ's Mathematics Institute, creating a partnership between Government Institutions that need solutions in the field, where I worked directly with <strong> [Securities and Exchange Commission of Brazil](https://www.gov.br/cvm/en)</strong>, working in projects using Data Science, Machine Learning and Natural Language Processing (NLP).
  
 
 Illustration by <a href="https://icons8.com/illustrations/author/5dd5075701d03600114d621f">Bogdan Magenta</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
