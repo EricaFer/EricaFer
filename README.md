@@ -13,9 +13,11 @@
   <a href="mailto:erica.ferreira.dev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-ED401B?style=flat-square&labelColor=ED401B&logo=gmail&logoColor=white&link=mailto:erica.ferreira.dev@gmail.com" /></a>
 
- I'm Erica and I study <strong>Computer Science</strong> at the <strong>[George Mason University]([https://www.gmu.edu/admissions-aid])</strong>.
+ I'm Erica
 
- ◻  Former Data Scientist Intern at Siemens developing Machine Learning models to detect anomalies in industrial device logs.
+ ◻  Graduated in Computer Science @<strong>[George Mason University]([https://www.gmu.edu/admissions-aid])</strong>.
+
+ ◻  Former Data Scientist Intern at Siemens, developing Machine Learning models to detect anomalies in industrial device logs.
 
  ◻  Former Undergraduate Research Fellow at Siemens, analyzing IIoT (Industrial Internet of Things) Info Security data using Data Science.
 
